@@ -78,6 +78,8 @@
     margin-top: 40px;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 182px;
+
 }
 
 .main_block2-info:nth-child(2) {
@@ -95,8 +97,7 @@
 }
 
 .footer {
-    position: fixed; 
-    bottom: 0;  
+    bottom: 0;
     width: 100%;
     border: 1px solid #DEDEDE; 
 }
